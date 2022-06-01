@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9JNyWhGVxOuWH4T06Ih/BuqTYmiKBNqNgSfYaFvXd4iqWK2mINMtpml+GhrEK0L+AQl+uwKETh2UOOd3wJqaQA==",
+  "success": true,
+  "projectFilePath": "/Users/ttrushel/Desktop/PreciousMetalSpotPriceMicroservice/PreciousMetalSpotPriceMicroservice/PreciousMetalSpotPriceMicroservice.csproj",
+  "expectedPackageFiles": [
+    "/Users/ttrushel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ttrushel/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ttrushel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.3.1/swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "/Users/ttrushel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.3.1/swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "/Users/ttrushel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.3.1/swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
